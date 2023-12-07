@@ -1,0 +1,15 @@
+            Button {
+                show.toggle()
+            } label: {
+                Text("Tap")
+            }
+        }
+    }
+}
+
+struct UsingСustomTransitionView_Previews: PreviewProvider {
+    static var previews: some View {
+        UsingСustomTransitionView()
+    }
+}
+
